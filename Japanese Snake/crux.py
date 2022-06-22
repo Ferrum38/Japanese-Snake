@@ -19,7 +19,7 @@ Ycoord = 480
 Point = namedtuple('Point', "x, y")
 
 #colours
-WHITE = (255, 255, 255)
+WHITE = (0, 0, 0)
 GREEN = (0, 51, 0)
 BLUE1 = (255, 255, 255)
 BLUE2 = (200, 0 , 0)
